@@ -44,21 +44,10 @@ class Skills:
 * 🤖 **Machine Learning for Forecasting**
 * 🔬 **Research & Data Analysis**
 
-### 🔬 Research & Projects
-
-* 📈 **Cryptocurrency Covariance Forecasting** — Statistical, econometric, ML & DL approaches
-* 🍈 **Fruit Volume Estimation** — Non-destructive estimation using computational methods
-* 📚 **Fruit Maturity Detection** — Systematic review & meta-analysis
-* 💊 **RxGuard** — AI-powered prescription safety and medicine price comparison agent
-
 ### 🏆 Highlights
 
-* 🎓 **M.Sc. Mathematics & Computing** — IIT (ISM) Dhanbad
-* 🏅 Joint Secretary — **TESSERACT, The Mathematics Society**
-* 🔬 Research experience in **Machine Learning & Computer Vision**
-* 📝 Published research in **Plant Science Today**
-* 🎤 Presented research at **ICMRI** & **MACMAS**
-* 📜 Cleared **ACET** — Institute of Actuaries of India
+* 🔬 IISER Pune — Summer Student Programme (SSP), 2024
+* 🏆 IASc-INSA-NASI Summer Research Fellow, 2026
 
 </details>
 
