@@ -58,7 +58,7 @@ class Skills:
 ## 🛠️ Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,cpp,mysql,git,github,jupyter,latex" />
+  <img src="https://skillicons.dev/icons?i=python,r,cpp,mysql,git,jupyter,latex" />
 </p>
 
 <p>
