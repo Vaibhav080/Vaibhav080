@@ -45,19 +45,26 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vaibhav080&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+<img
+  src="./profile/stats.svg"
+  alt="GitHub Stats"
+/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav080&theme=dark&hide_border=false" />
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav080&theme=dark&hide_border=false"
+  alt="GitHub Streak"
+/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav080&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img
+  src="./profile/top-langs.svg"
+  alt="Top Languages"
+/>
 
 </div>
-
-<br/>
 
 ## 📈 Contribution Graph
 
