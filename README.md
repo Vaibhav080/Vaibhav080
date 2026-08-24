@@ -74,7 +74,7 @@
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/Vaibhav080/Vaibhav080/output/github-snake.svg"
+  src="https://raw.githubusercontent.com/Vaibhav080/Vaibhav080/output/github-snake-dark.svg"
   alt="GitHub Contribution Snake"
 />
 
