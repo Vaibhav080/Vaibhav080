@@ -83,9 +83,9 @@
     srcset="https://raw.githubusercontent.com/Vaibhav080/Vaibhav080/output/github-snake.svg"
   />
   <img
-    alt="github-snake"
-    src="https://raw.githubusercontent.com/Vaibhav080/Vaibhav080/output/github-snake.svg"
-  />
+  src="https://raw.githubusercontent.com/Vaibhav080/Vaibhav080/output/github-snake.svg"
+  alt="GitHub Contribution Snake"
+/>
 </picture>
 
 </div>
