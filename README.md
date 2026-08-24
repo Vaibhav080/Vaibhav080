@@ -45,15 +45,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Vaibhav080&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=false" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav080&theme=dark&hide_border=false" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav080&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 </div>
 
@@ -63,7 +63,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav080&theme=react-dark&hide_border=true" />
 
 </div>
 
@@ -74,9 +74,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaibhav080/Vaibhav080/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vaibhav080/Vaibhav080/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Vaibhav080/Vaibhav080/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -87,7 +87,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=Vaibhav080&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 
 </div>
 
@@ -97,7 +97,7 @@
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+<img src="https://github-contributor-stats.vercel.app/api?username=Vaibhav080&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
 </div>
 
@@ -131,7 +131,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Vaibhav080&color=blueviolet&style=flat" />
 
 </div>
 
