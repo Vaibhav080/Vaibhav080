@@ -18,6 +18,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
       - name: Checkout repository
         uses: actions/checkout@v6
 
@@ -37,13 +38,24 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate GitHub Trophy
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: 'username=${{ github.repository_owner }}&theme=dark_dimmed&column=6&row=2&margin-w=10&no-bg=true'
+          path: profile/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit generated cards
         run: |
+          # Configure Git identity for the GitHub Actions bot.
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add profile/stats.svg profile/top-langs.svg
+          # Stage all three generated SVG files.
+          git add profile/stats.svg profile/top-langs.svg profile/trophy.svg
 
-          git commit -m "Update GitHub stats cards" || exit 0
+          # Create a commit only when one or more generated files changed.
+          git commit -m "Update GitHub profile cards" || exit 0
 
+          # Push the updated SVG files back to the main branch.
           git push
