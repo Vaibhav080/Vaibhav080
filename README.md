@@ -93,17 +93,10 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vaibhav080&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-
-</div>
-
-<br/>
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Vaibhav080&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+<img
+  src="./profile/trophy.svg"
+  alt="GitHub Trophies"
+/>
 
 </div>
 
