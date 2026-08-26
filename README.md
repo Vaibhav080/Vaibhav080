@@ -70,7 +70,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav080&theme=react-dark&hide_border=true" />
+<img src="[https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav080&theme=react-dark&hide_border=true](https://github-readme-streak-stats-eight.vercel.app/?user=Vaibhav080)" />
 
 </div>
 
