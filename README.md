@@ -68,19 +68,6 @@
 
 <br/>
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav080&theme=react-dark&hide_border=true"
-  alt="GitHub Contribution Graph"
-/>
-
-</div>
-
-<br/>
-
 ## 🐍 Contributions
 
 <div align="center">
