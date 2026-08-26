@@ -12,11 +12,11 @@
 
 ## 🧠 About Me
 
-* 🎓 Aspiring **AI/ML Engineer** with a strong interest in Machine Learning and Data Science
-* 💻 Working with **Python, C++, and Machine Learning frameworks**
-* 🤖 Exploring **Generative AI, Transformers, Computer Vision, and Deep Learning**
-* 📊 Interested in building practical, data-driven AI systems
-* 🚀 Always learning, experimenting, and building new projects
+- 🎓 Aspiring **AI/ML Engineer** with a strong interest in Machine Learning and Data Science
+- 💻 Working with **Python, C++, and Machine Learning frameworks**
+- 🤖 Exploring **Generative AI, Transformers, Computer Vision, and Deep Learning**
+- 📊 Interested in building practical, data-driven AI systems
+- 🚀 Always learning, experimenting, and building new projects
 
 <br/>
 
@@ -24,18 +24,18 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge\&logo=scipy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -53,7 +53,7 @@
 <br/><br/>
 
 <img
-  src="[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Vaibhav080)](https://git.io/streak-stats)"
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=Vaibhav080"
   alt="GitHub Streak"
 />
 
@@ -66,11 +66,16 @@
 
 </div>
 
+<br/>
+
 ## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="[https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav080&theme=react-dark&hide_border=true](https://github-readme-streak-stats-eight.vercel.app/?user=Vaibhav080)" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav080&theme=react-dark&hide_border=true"
+  alt="GitHub Contribution Graph"
+/>
 
 </div>
 
@@ -122,7 +127,10 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<img
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+  alt="Random Dev Quote"
+/>
 
 </div>
 
@@ -130,13 +138,20 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Vaibhav080&color=blueviolet&style=flat" />
+<img
+  src="https://komarev.com/ghpvc/?username=Vaibhav080&color=blueviolet&style=flat"
+  alt="Profile Views"
+/>
 
 </div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer"
+  alt="Footer"
+/>
 
 </div>
-
