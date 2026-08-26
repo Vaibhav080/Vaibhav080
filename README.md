@@ -53,7 +53,7 @@
 <br/><br/>
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav080&theme=dark&hide_border=false"
+  src="[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Vaibhav080)](https://git.io/streak-stats)"
   alt="GitHub Streak"
 />
 
